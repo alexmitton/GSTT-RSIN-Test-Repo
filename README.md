@@ -11,10 +11,14 @@ Once I've added you both as collaborators for this test project, try and follow 
 
 1: Go onto the "Issues" tab at the top of the home page. Any of us can raise issues, or tasks, and assign them for one of us to handle. I've created a simple demo issue for each of you, which is to alter the contents of the text file 'testText_*yourname*'.
 
-2: Clone the whole repository on your own computer (to make a local copy). You'll make the alterations to the text file on this copy. As mentioned before, this could be done in the command line, but I recommend using GitHub desktop!
+2: Clone the whole repository on your own computer (to make a local copy). You'll only have to do this once, at the beginning of the project. You'll make the alterations to the text file on this copy. As mentioned before, this could be done in the command line, but I recommend using GitHub desktop!
 
 3: Create a new branch in the repository to work on the issue. This is best practice, as it's generally not a good idea to make changes directly to the main branch. Name it something like '1-alterTextFile_*yourname*', to make it traceable to the issue you're working on.
 
-4: Make the changes to your local copy of the text file, as indicated in the instructions in the issue. Commit your changes to your new branch.
+4: Ensure you're working on the most up-to-date version of the repository, by 'pulling' the latest version. In GitHub Desktop, this process may be called 'Fetch origin', but it means the same thing. Make the changes to your local copy of the text file, as indicated in the instructions in the issue. Commit the changes to your new branch.
 
 5: Once done, push your changes back to the shared repository on Github.
+
+6: Once your changes have been pushed to GitHub, create a pull request. This sends me an alert that you have made changes, and have requested they be merged onto the main branch.
+
+7: I'll review the pull request, and merge your changes to the main branch (assuming all goes well!)
