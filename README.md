@@ -15,6 +15,6 @@ Once I've added you both as collaborators for this test project, try and follow 
 
 3: Create a new branch in the repository to work on the issue. This is best practice, as it's generally not a good idea to make changes directly to the main branch. Name it something like '1-alterTextFile_*yourname*', to make it traceable to the issue you're working on.
 
-4: Make the changes to your local copy of the text file, as indicated in the instructions in the issue.
+4: Make the changes to your local copy of the text file, as indicated in the instructions in the issue. Commit your changes to your new branch.
 
-5: Once done, push your changes back to the shared repository. 
+5: Once done, push your changes back to the shared repository on Github.
