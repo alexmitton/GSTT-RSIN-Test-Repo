@@ -1,7 +1,8 @@
 a is for apple
 b is for banana
 c is for caravan
+d is for dynamite
+e is for egg
 
 The integers from 1-10 are: (1,2,3,4,5,6,7,8,9,10)
 
-hello there 
